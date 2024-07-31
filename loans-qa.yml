@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related QA APIs "
+  message: "988c96ff7d10650d53153437c9f686b616a06d0a2b14166816e9984df29f8b1117f59ece2cef7f6e154fede576f1948e4642cef4cc6a2badf77ba3110e693cfa"
   contactDetails:
-    name: "Cyrano Marita - QA Lead"
-    email: "cyrano@eazybank.com"
+    name: "84b1436414f8f52df63ab203a503b556eae08d0c98abbe8bb1b18c0e31d95defac9a5d2be9a4312f3bc34773ddf77602"
+    email: "5ab95f0da518c0fe1b7b12cfac1ded2e49f36adc877b112cb52acd00abff7881093eeafc08df9ea3b1b44731afc15b87"
   onCallSupport:
-    - (785) 545-6565
-    - (853) 546-3467
+    - 6c8572905a153e96fa6e38d8c7b189fc9a619fa95d570494bb121f23da4ef939
+    - 3b2e3df1e07101cdc6fb16507dcbcecd5fa132e0047bbbdd1bd5a33e0847f744
