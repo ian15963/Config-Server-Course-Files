@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs "
+  message: "0457897acbce237c9289536f3f61347e0bc391922ee0aa959b686ea4244aa88ba9c6ed0585323f9d37459d754fd4b45a69ef421b48cde56b9183db6bfa597b07"
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    name: "8d59b7a4dc535445977e577415ec6b47b4a429eec297bc154447e657b95894dd18c867683d6e0eff43c375338301ed9b"
+    email: "beeaa895aea40bf7285eacfba94f02dafba52b254b168a34b5e499089c82578d2a62f4541943db5a79ad83bf45b03a92"
   onCallSupport:
-    - (723) 656-8709
-    - (156) 342-0956
+    - b9963f6c468270ca37fd5141031f24ee18e5dfb07a85f95a155484f2c7691535
+    - 72f4f41d37e87f4b0df68fffb904ee26c56856bd268ecb8334b5604e7e5f2d94
