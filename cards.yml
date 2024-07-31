@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "facb35034a347124c863e4369db7b9159bb08d0fd28a756d830ed4320005f00d756671a54daac3cbd65099825aee4e3b835eb869b56f8e2e4104f6543c6ba4b5"
   contactDetails:
-    name: "Dragos Lech - Developer"
-    email: "dragos@eazybank.com"
+    name: "f2e47e3dac6e3f1b55fdd3a1e1acc16d72d4410746af82bc14f7827c516dcbd51a380e11ba5a8ab332695989d75e5908"
+    email: "6fbd5215ebbac07eb9621a58ac785816cac4e3bdf812e8b7b6afa91552ba2cc71c3a10689aa0af418394b3add197775f"
   onCallSupport:
-    - (412) 419-3491
-    - (915) 382-1932
+    - d6d62a47822599b0d041c36cc235b108bd92d5b0e2eda14c9886061996749589
+    - 4291a7864c141bc99298bcf96b845cf4d4013650cbc323ef04b6aadc3db1a134
