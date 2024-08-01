@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Loans microservice API"
+  message: "Loans microservice local API"
   contactDetails:
     name: "{cipher}fd8fff7a668ca738def52d5c5f6fe90bba05193ed31bf91ba1f50f31f0e8c8813ce8dfa574746ed0ea8d40c4759337af"
     email: "{cipher}72e167a2442878250838f54b133e7a559658afbfab3a921fbccc51c29c6eb1b35ea2613f50e5f0fd8a90e57ac12e9593"
