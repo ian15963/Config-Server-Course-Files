@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "{cipher}af18f7669c2ca1275be10422656524cddab18f835a5fd6794fc36c110991cd2b1ff041e4c22d84e05a78844df546638474c4aea35465335756b6f5a737933991"
+  message: "Loans microservice Api"
   contactDetails:
     name: "{cipher}fd8fff7a668ca738def52d5c5f6fe90bba05193ed31bf91ba1f50f31f0e8c8813ce8dfa574746ed0ea8d40c4759337af"
     email: "{cipher}72e167a2442878250838f54b133e7a559658afbfab3a921fbccc51c29c6eb1b35ea2613f50e5f0fd8a90e57ac12e9593"

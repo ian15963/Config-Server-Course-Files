@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "{cipher}383300cc5fcc358d6e3a4004f89da44709e76424dbfb9687c71bf43b2f61af268ccf6e5a1326fa6fbd979bf7eb74b01eac33fd2fb783a1f3a8657090c8ee481dd5392c5b3c22f88de2ef0c07881287a4"
+  message: "Card microservice Api"
   contactDetails:
     name: "{cipher}f2e47e3dac6e3f1b55fdd3a1e1acc16d72d4410746af82bc14f7827c516dcbd51a380e11ba5a8ab332695989d75e5908"
     email: "{cipher}6fbd5215ebbac07eb9621a58ac785816cac4e3bdf812e8b7b6afa91552ba2cc71c3a10689aa0af418394b3add197775f"

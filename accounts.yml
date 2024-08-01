@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "{cipher}f2007d1dd5636f6e95376e463f6cc1727a885ac32e914532cbefd099a6f1925a13fd803d235ca64637c4ce709eda0acff8f9470985ee41063c6340c622e2a4cb"
+  message: "Account microservice Api"
   contactDetails:
     name: "{cipher}f2280f5fd41c7f76b175924a9cd66cec64dc4e292abf69625a4221532c6d9d0ad1a3d5477a0f4d33e473ce1477cf5290"
     email: "{cipher}8f5351df2ceb1ac4b20e7e30c254415d51d559059680ddcd1e25ee3e1ae96503240773b4a6281b619fb9afe90e23fc99"
