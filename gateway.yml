@@ -31,5 +31,5 @@ info:
 logging:
   level:
     com:
-      eazybytes:
-        gatewayserver: DEBUG
+      microservice:
+        gateway: DEBUG
