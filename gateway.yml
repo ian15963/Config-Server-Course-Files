@@ -1,6 +1,16 @@
 server:
   port: 8072
 
+spring:
+  cloud:
+    discovery:
+      locator:
+        enabled: false
+        lowerCaseServiceId: true
+    httpclient:
+      connect-timeout: 1000
+      response-timeout: 5s
+
 eureka:
   instance:
     preferIpAddress: true
